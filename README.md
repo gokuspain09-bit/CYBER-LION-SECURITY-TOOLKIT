@@ -1,4 +1,4 @@
-<div align="center"><img src="logo.png" width="100%" alt="CYBER LION SECURITY TOOLKIT">🦁 CYBER LION SECURITY TOOLKIT
+file_00000000800c82119cc6d867db66c147.png<div align="center"><img src="logo.png" width="100%" alt="CYBER LION SECURITY TOOLKIT">🦁 CYBER LION SECURITY TOOLKIT
 
 Ultimate Defensive Cybersecurity Toolkit
 
